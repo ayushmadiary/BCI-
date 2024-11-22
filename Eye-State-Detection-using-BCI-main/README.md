@@ -1,0 +1,1 @@
+Eye state detection was performed using tree-based machine learning algorithms with brain signal data collected by electroencephalogram (EEG) headset. Preprocessing steps like bandpass filtering, Hilbert Transform and Z-Score normalization were used along with Recursive feature elimination and Bayesian Optimization.
